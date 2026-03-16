@@ -1,0 +1,78 @@
+# Central Care Hospital Website
+
+## Overview
+**Central Care Hospital** is a modern, responsive website designed to showcase hospital services, medical staff, patient resources, and blog content. The site provides a professional, user-friendly interface for patients, families, and staff while reflecting the hospital’s commitment to exceptional healthcare.
+
+Features include:  
+- Clean, modern hospital-themed design  
+- Fully responsive layout for mobile, tablet, and desktop  
+- Dark and light mode toggle  
+- Sections for services, doctors, blogs, appointments, and gallery  
+- Smooth animations and hover effects for an engaging experience  
+
+---
+
+## Features
+
+### 1. Responsive Design
+- Mobile-friendly using CSS Flexbox and Grid  
+- Hamburger menu on smaller screens  
+- Hero and services sections adapt to all screen sizes  
+
+### 2. Hero Section
+- Engaging hero image with inspiring text  
+- Call-to-action (CTA) buttons  
+- Smooth fade-in and scroll animations  
+
+### 3. Services Section
+- Displays hospital services (Emergency Care, Pediatrics, Radiology, etc.)  
+- Interactive hover effects on service cards  
+- Styled with hospital theme colors  
+
+### 4. Doctors Section
+- Displays staff with profile images  
+- Responsive team layout  
+
+### 5. Blog Section
+- Highlights health-related articles  
+- "Read More" buttons for full content  
+- Smooth hover animations  
+
+### 6. Appointment Form
+- Online appointment booking form  
+- Validates name, phone, date, and time inputs  
+- Styled with hospital theme colors  
+
+### 7. Gallery Section
+- Responsive image grid  
+- Hover effects for interactivity  
+
+### 8. Footer
+- Contains hospital info, address, care services, and social media links  
+- Fully responsive  
+
+### 9. Dark & Light Mode
+- Toggle between light and dark themes  
+- Smooth color transitions  
+
+### 10. Animations
+- Scroll animations using CSS transitions and optional GSAP  
+- Hover effects for buttons, cards, and navbar links  
+
+---
+
+## Technologies Used
+- **HTML5** – Semantic markup  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript** – Interactivity and animations  
+- **Font Awesome** – Icons  
+- **GSAP (optional)** – Advanced animations  
+- **Responsive design** – Flexbox & CSS Grid  
+
+---
+
+## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/central-care-hospital.git
