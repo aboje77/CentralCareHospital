@@ -306,8 +306,8 @@ ul li a:hover {
 
 }
 .blogcard{
-    width: 300px;
-    padding: 18px;
+    width: 200px;
+    padding: 12px;
     background-color: rgba(1, 75, 75);
     text-align: center;
     color: white;
