@@ -101,6 +101,7 @@ ul li a:hover {
     color: white;
     font-size: 20px;
     border: none;
+    border-radius: 15px;
 }
 .head{
     text-align: center;
@@ -150,6 +151,7 @@ ul li a:hover {
     box-shadow:0 20px 40px rgba(0,0,0,0.1);
 }
 
+/* Doctors Section  */
 
 .doctors{
     width: 820px;
@@ -181,6 +183,8 @@ ul li a:hover {
     height: 230px;
     margin-inline: 20px;
 }
+
+/* Patient Stories Section */
 
 .patient-stories {
   padding: 6rem 2rem;
@@ -249,10 +253,14 @@ ul li a:hover {
     text-align: center;
 }
 
+/* Gallery Section */
+
 .gallery-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1.5rem;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 .gallery-card {
@@ -303,11 +311,14 @@ ul li a:hover {
     background-color: rgba(1, 75, 75);
     text-align: center;
     color: white;
-    margin-inline: 20px
+    margin-inline: 20px;
+    border-radius: 60px;
+    margin-bottom: 10px;
 }
 .blogcard img{
     width: 100%;
     height: 250px;
+    border-radius: 20px;
 
 }
 .blogcard a{
@@ -318,6 +329,7 @@ ul li a:hover {
     position: relative;
     top: 7px;
     font-size: 20px;
+    border-radius: 15px;
 }
 /* APPOINTMENT */
 .appointment{
